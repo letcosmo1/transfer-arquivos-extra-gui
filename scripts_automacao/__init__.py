@@ -1,0 +1,1 @@
+from .automacao_transferencia import automacao_transferencia
